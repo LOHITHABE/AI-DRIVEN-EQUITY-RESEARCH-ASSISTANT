@@ -1,18 +1,7 @@
-# Ignore virtual environment
 venv/
-
-# Ignore environment and secret files
 .env
 *.json
-
-# Ignore Jupyter checkpoints
-.ipynb_checkpoints/
-
-# Ignore large model/data files
 *.pkl
-*.bin
-*.h5
-
-# Ignore system files
 __pycache__/
+.ipynb_checkpoints/
 .DS_Store
