@@ -3,5 +3,6 @@ venv/
 *.json
 *.pkl
 __pycache__/
+notebooks/" > .gitignore
 .ipynb_checkpoints/
 .DS_Store
